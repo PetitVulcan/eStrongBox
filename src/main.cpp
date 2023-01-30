@@ -91,9 +91,9 @@ void InitLCD()
 // Function for Initialize SERVO on SETUP
 void InitServo()
 {
-  // Attache du servo pin
+  // Attach pin to Servo
   myservo.attach(SERVO_PIN_ATTACH);
-  // Initialisation de la position fermée
+  // Initialize Servo on Close Potition
   myservo.write(130);
 }
 
