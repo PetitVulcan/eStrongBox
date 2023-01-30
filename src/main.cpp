@@ -56,7 +56,7 @@ Keypad customKeypad = Keypad(makeKeymap(hexaKeys), rowPins, colPins, ROWS, COLS)
     Code Configuration
 */
 // Init reference password
-const String Password = "7253";
+const String Password = "<SetYouPassHERE>";
 
 // Init empty string for user input
 String userCode = "";
