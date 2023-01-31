@@ -25,6 +25,6 @@ Partage d'un D.I.Y familiale.
 ![Logo](img/items/ar-clavier-souple-eco-cs16mc-19399.jpg)
 
 
-* Un keypad Servo Moteur
+* Un Servo Moteur
 
 ![Logo](img/items/micro-servo-tower-pro-sg90.jpg)
