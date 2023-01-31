@@ -56,7 +56,7 @@ Keypad customKeypad = Keypad(makeKeymap(hexaKeys), rowPins, colPins, ROWS, COLS)
     Code Configuration
 */
 // Init reference password
-const String Password = "7253";
+const String Password = "<SetYouPassHERE>";
 
 // Init empty string for user input
 String userCode = "";
@@ -91,9 +91,9 @@ void InitLCD()
 // Function for Initialize SERVO on SETUP
 void InitServo()
 {
-  // Attache du servo pin
+  // Attach pin to Servo
   myservo.attach(SERVO_PIN_ATTACH);
-  // Initialisation de la position fermée
+  // Initialize Servo on Close Potition
   myservo.write(130);
 }
 
