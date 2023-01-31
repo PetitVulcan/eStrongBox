@@ -8,3 +8,7 @@
 Partage d'un D.I.Y familiale.
 ```
 
+### Liste du matériel nécéssaire
+
+* Un arduino nano
+
