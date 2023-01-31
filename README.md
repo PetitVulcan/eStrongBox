@@ -12,3 +12,5 @@ Partage d'un D.I.Y familiale.
 
 * Un arduino nano
 
+![Logo](img/items/Arduino-Tutorial-for-Interfacing-I2C-LCD.jpg)
+
