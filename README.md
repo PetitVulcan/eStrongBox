@@ -12,5 +12,19 @@ Partage d'un D.I.Y familiale.
 
 * Un arduino nano
 
+![Logo](img/items/Arduino_Nano_V3_usb_compatible_m.png)
+
+
+* Un Afficheur LCD I2C 2 Lignes 16 Caractères
+
 ![Logo](img/items/Arduino-Tutorial-for-Interfacing-I2C-LCD.jpg)
 
+
+* Un keypad compatible Arduino
+
+![Logo](img/items/ar-clavier-souple-eco-cs16mc-19399.jpg)
+
+
+* Un keypad Servo Moteur
+
+![Logo](img/items/micro-servo-tower-pro-sg90.jpg)
